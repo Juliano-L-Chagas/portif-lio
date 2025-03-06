@@ -7,6 +7,7 @@ Meu primeiro portifólio desenvolvido com os cursos de HTML e CSS da Alura.
 - HTML
 - CSS
 - Flexbox
+- Responsividade
 
 # Como Rodar o Projeto
 1. Clone ou baixe o repositório.
