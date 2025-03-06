@@ -9,6 +9,6 @@ Meu primeiro portifólio desenvolvido com os cursos de HTML e CSS da Alura.
 - Flexbox
 
 # Como Rodar o Projeto
-1.Clone ou baixe o repositório.
+1. Clone ou baixe o repositório.
 
-2.Abra o arquivo index.html no seu navegador.
+2. Abra o arquivo index.html no seu navegador.
