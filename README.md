@@ -6,7 +6,7 @@ Este é o meu primeiro projeto de portifólio web, desenvolvido como parte do me
 ## Funcionalidades do Projeto
 
 * Apresentação pessoal e profissional.
-* Exibição de experiência e habilidades.
+* Exibição de experiências e habilidades.
 * Informações de contato.
 * Navegação intuitiva.
 * Layout responsivo para diferentes dispositivos.
