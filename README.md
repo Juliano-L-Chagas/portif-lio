@@ -1,5 +1,5 @@
 # Meu Primeiro Portfólio Web
-Este é o meu primeiro projeto de portfólio web, desenvolvido como parte do meu aprendizado em HTML e CSS pela Alura. O objetivo é apresentar minhas habilidades básicas em desenvolvimento front-end e demonstrar minha capacidade de criar layouts responsivos.
+Este é o meu primeiro projeto de portfólio web, desenvolvido como parte do meu aprendizado em HTML e CSS pela plataforma de cursos da Alura. O objetivo é apresentar minhas habilidades básicas em desenvolvimento front-end e demonstrar minha capacidade de criar layouts responsivos.
 
 ![portifolio](https://github.com/user-attachments/assets/3380ac93-4308-4925-98db-b4dc3a552540)
 
@@ -27,7 +27,19 @@ Você pode acessar o projeto online [aqui](https://juliano-l-chagas.github.io/po
 
 1.  Clone o repositório: `git clone https://github.com/dolthub/dolt`
 2.  Abra o arquivo `index.html` no seu navegador.
-
-3.  ## Aprendizados
+   
+## Aprendizados
 
 Durante este projeto, aprendi a estruturar páginas web com HTML, a estilizar elementos com CSS, a criar layouts flexíveis com Flexbox e a tornar páginas responsivas com Media Queries.
+
+## Desafios
+
+Um dos principais desafios foi garantir que o layout se adaptasse corretamente a diferentes tamanhos de tela. Superei esse desafio praticando e consultando documentações online.
+
+## Melhorias Futuras
+
+Pretendo adicionar mais projetos ao portfólio e implementar funcionalidades interativas com JavaScript.
+
+## Agradecimentos
+
+Gostaria de agradecer ao meu instrutor e aos meus colegas de curso pelo apoio e incentivo.
