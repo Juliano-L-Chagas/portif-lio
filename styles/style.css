@@ -102,7 +102,7 @@ body{
 
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
-    padding: 3%;
+    transform: scale(1.1);
 }
 
 .apresentacao__imagem{
