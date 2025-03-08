@@ -21,6 +21,6 @@ Este é o meu primeiro projeto de portfólio web, desenvolvido como parte do meu
 
 ## Acesso ao Projeto
 
-Você pode acessar o projeto online [aqui]([seu-link-para-o-projeto](https://github.com/Juliano-L-Chagas/portifolio.git)).
+Você pode acessar o projeto online [aqui](https://github.com/Juliano-L-Chagas/portifolio.git).
 
 2. Abra o arquivo index.html no seu navegador.
