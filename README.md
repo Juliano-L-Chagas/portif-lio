@@ -1,5 +1,5 @@
 # Meu Primeiro Portfólio Web
-Este é o meu primeiro projeto de portfólio web, desenvolvido como parte do meu aprendizado em HTML e CSS pela plataforma de cursos da Alura. O objetivo é apresentar minhas habilidades básicas em desenvolvimento front-end e demonstrar minha capacidade de criar layouts responsivos.
+Este é o meu primeiro projeto de portifólio web, desenvolvido como parte do meu aprendizado em HTML e CSS pela plataforma de cursos da Alura. O objetivo é apresentar minhas habilidades básicas em desenvolvimento front-end e demonstrar minha capacidade de criar layouts responsivos.
 
 ![portifolio](https://github.com/user-attachments/assets/3380ac93-4308-4925-98db-b4dc3a552540)
 
