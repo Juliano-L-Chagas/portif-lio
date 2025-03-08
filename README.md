@@ -42,4 +42,4 @@ Pretendo adicionar mais projetos ao portfólio e implementar funcionalidades int
 
 ## Agradecimentos
 
-Gostaria de agradecer ao meu instrutor e aos meus colegas de curso pelo apoio e incentivo.
+Gostaria de agradecer aos meus instrutores e aos meus colegas de curso pelo apoio e incentivo.
