@@ -19,7 +19,8 @@ Este é o meu primeiro projeto de portfólio web, desenvolvido como parte do meu
 * Media Queries: Adaptação do layout para diferentes tamanhos de tela.
 * GitHub Pages: Hospedagem do site.
 
-# Como Rodar o Projeto
-1. Clone ou baixe o repositório.
+## Acesso ao Projeto
+
+Você pode acessar o projeto online [aqui]([seu-link-para-o-projeto](https://github.com/Juliano-L-Chagas/portifolio.git)).
 
 2. Abra o arquivo index.html no seu navegador.
