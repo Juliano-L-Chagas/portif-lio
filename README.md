@@ -25,7 +25,7 @@ Você pode acessar o projeto online [aqui](https://juliano-l-chagas.github.io/po
 
 ## Como Abrir e Rodar o Projeto
 
-1.  Clone o repositório: `git clone https://github.com/dolthub/dolt`
+1.  Clone o repositório: `gh repo clone Juliano-L-Chagas/portifolio`
 2.  Abra o arquivo `index.html` no seu navegador.
    
 ## Aprendizados
